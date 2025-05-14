@@ -1,6 +1,4 @@
-# Backlink Discovery Web Application
-
-## Overview
+# Backlink Tracker Web Application
 
 This web application allows users to discover backlinks pointing to their target domains from a list of provided URLs. It features a user-friendly dashboard to manage crawl jobs, a robust crawler engine capable of handling JavaScript-rendered content and anti-bot measures, and provides detailed analytics on the discovered backlinks.
 
@@ -143,4 +141,4 @@ Given more time, the following improvements and extensions could be implemented:
 
 ## Contributions
 
-Thanks AI for helping me out on topics such as scheduling using celery+redis and on helping me refactor my code. And also for generate Readme.md file's structure.
+Thanks AI for helping me out on topics, such as scheduling using celery+redis etc. and on helping me refactor my code. And also for generate Readme.md file's structure.
